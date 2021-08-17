@@ -1,4 +1,4 @@
-Hi, I’m @theScrlLkKey
+Hi, I’m @theScrlLkKey.
 You may know me as Decky, or SerialPortGaming!
 I am pretty good at Python. 
 I will learn C someday.
